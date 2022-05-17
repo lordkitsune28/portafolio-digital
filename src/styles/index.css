@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: #E489C0;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+body{
+    background-color: #080210;
+}
+
+.loader{
+    width: 50%;
+    margin: auto !important;
+    left: 0px !important;
+    right: 0px !important;
+    top: 0px !important;
+    bottom: 0px !important;
+}
+
+nav{
+    width: 100% !important;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.banner{
+    height: 170px;
+    box-shadow: 0px 10px 15px 10px #771EA0;
+}
+
+.contenedor{
+    width: 85%;
+    margin: 0 auto 0 auto;
+}
+
+.logo{
+    width: 10%;
+}
+
+nav li{
+    position: relative;
+    float: right;
+    list-style: none;
+    text-align: center;
+    margin: 20px 30px 0px 30px;
+}
+
+nav li .vinculos{
+    text-decoration: none;
+    color: #E489C0 !important;
+}
+
+nav li img{
+    width: 70px;
+    display: block;
+}
+
+.tittle{
+    margin: 200px 0px 50px 0px;
+    text-align: center;
+}
